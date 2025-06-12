@@ -10,7 +10,7 @@ A simple and fun Discord bot built using Python and `discord.py` that fetches ra
 
 ## Tech Stack
 
-- Python 3.8+
+- Python 3.13+
 - `discord.py`
 - `requests` (for API calls)
 - `json` (for parsing responses)
